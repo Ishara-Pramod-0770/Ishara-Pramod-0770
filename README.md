@@ -8,22 +8,30 @@
  />
 </p>
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<table align="center">
+ <tr border="none">
+  <td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-<br /><br/><br/><br/>
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
+- 💬 Ask me about **React**
 
-- 👨🏻‍🎓 I’m an undergraduate **at SLIIT**
-- 🌱 I’m currently learning **ReactNative, JAVA**
-- 👯 I’m looking forward to collaborating **with you**
 - 📫 How to reach me **isharapramodranaweera@gmail.com**
-<br />
-
-<br /><br/><br/>
+  
+- ⚡ Fun fact **Call me as Ishara**
+  
+  </td>
+  <td width="50%" align="center">
+   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+  </td>
+ </tr>
+</table>
 
 ---
-<h3 align="center">Languages and Tools:</h3>
-
+<br>
+<h3 align="center">Languages and Tools:</h3><br>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.android.com" target="_blank" rel="noreferre">
    <img
@@ -166,16 +174,28 @@
    /> </a
 
 <br /><br><br /><br>
----
-<h3 align="center">Contribution Graph:</h3>
+
+<h3 align="center">Contribution Graph:</h3><br>
+<table align="center">
+ <tr border="none">
+  <td width="50%" align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara-Pramod-0770&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+  </td>
+  <td width="50%" align="center">
+   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Ishara-Pramod-0770&theme=react&show_icons=true&include_all_commits=true" />
+  </td>
+ </tr>
+</table>
 <p align= "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara-Pramod-0770&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb"><br><br>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Ishara-Pramod-0770&theme=react&show_icons=true&include_all_commits=true" /><br>
+  
+  
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 </p>
 <br /><br/><br/><br/>
 
 <h3 align="center">Connect with me</h3><br>
+
+<table align="center"></table>
 
 <p align="center">
  <a href="https://codepen.io/ishara ranaweera" target="blank"

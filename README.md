@@ -195,42 +195,50 @@
 
 <h3 align="center">Connect with me</h3><br>
 
-<table align="center"></table>
-
-<p align="center">
- <a href="https://codepen.io/ishara ranaweera" target="blank"
+<table align="center">
+ <tr border="none">
+  <td width="20%" align="center">
+   <a href="https://codepen.io/ishara ranaweera" target="blank"
    ><img
      align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
      alt="ishara ranaweera"
      height="40"
      width="50" /></a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://linkedin.com/in/ishara ranaweera" target="blank"
+ >
+  </td>
+  <td width="20%" align="center">
+   <a href="https://linkedin.com/in/ishara ranaweera" target="blank"
    ><img
      align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
      alt="ishara ranaweera"
      height="40"
      width="50" /></a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://stackoverflow.com/users/23122766" target="blank"
+ >
+  </td>
+  <td width="20%" align="center">
+   <a href="https://stackoverflow.com/users/23122766" target="blank"
    ><img
      align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
      alt="23122766"
      height="40"
      width="50" /></a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://fb.com/ishara pramod ranaweerainfi" target="blank"
+ >
+  </td>
+  <td width="20%" align="center">
+   <a href="https://fb.com/ishara pramod ranaweerainfi" target="blank"
    ><img
      align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
      alt="ishara pramod ranaweerainfi"
      height="40"
      width="50" /></a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.youtube.com/c/infinite sage" target="blank"
+ >
+  </td>
+  <td width="20%" align="center">
+   <a href="https://www.youtube.com/c/infinite sage" target="blank"
    ><img
      align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
@@ -238,6 +246,9 @@
      height="40"
      width="50"
  /></a>
-</p>
-<br /><br><br /><br>
+  </td>
+ </tr>
+</table>
+
+
 

@@ -193,7 +193,7 @@
   
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 </p>
-<br /><br/>
+<br />
 
 <h3 align="center">Connect with me ☎️</h3><br>
 

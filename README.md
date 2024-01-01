@@ -1,9 +1,11 @@
-<h1 align="center">Hello 👋, I'm Ishara Pramod Ranaweera</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ishara+Pramod!;I'm+a+FrontEnd+Developer;And+I'm+a+proud+Sri-Lanka)](https://git.io/typing-svg)
 <h3 align="center">Enthusiastic Software Engineer</h3>
+
+
 
 <p align="center">
  <img
-   src="https://komarev.com/ghpvc/?username=ishara-pramod-0770&label=Profile%20views&color=0e75b6&style=flat"
+   src="https://komarev.com/ghpvc/?username=ishara-pramod-0770&label=Profile%20views&color=0e75b6&style=flat"  
    alt="ishara-pramod-0770"
  />
 </p>

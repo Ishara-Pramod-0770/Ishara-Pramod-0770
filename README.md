@@ -33,7 +33,7 @@
 
 ---
 <br>
-<h3 align="center">Languages and Tools:</h3><br>
+<h3 align="center">Languages and Tools ⚙️</h3><br>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.android.com" target="_blank" rel="noreferre">
    <img
@@ -175,9 +175,9 @@
      height="40"
    /> </a
 
-<br /><br><br /><br>
+<br /><br><br />
 
-<h3 align="center">Contribution Graph:</h3><br>
+<h3 align="center">Contribution Graph 📊</h3><br>
 <table align="center">
  <tr border="none">
   <td width="50%" align="center">
@@ -193,9 +193,9 @@
   
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 </p>
-<br /><br/><br/><br/>
+<br /><br/>
 
-<h3 align="center">Connect with me</h3><br>
+<h3 align="center">Connect with me ☎️</h3><br>
 
 <table align="center">
  <tr border="none">

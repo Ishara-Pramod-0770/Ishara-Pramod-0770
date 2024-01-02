@@ -173,7 +173,7 @@
      alt="react"
      width="40"
      height="40"
-   /> </a
+   /> </a>
 
 <br /><br><br />
 

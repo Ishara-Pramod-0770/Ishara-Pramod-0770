@@ -1,256 +1,301 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ishara+Pramod!;I'm+a+Full-Stack+Developer;And+I'm+a+proud+Sri-Lanka)](https://git.io/typing-svg)
-<h3 align="center">Enthusiastic Software Engineer</h3>
+<div align="center">
 
+<!-- Blue Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ISHARA%20PRAMOD&fontSize=40&fontAlignY=35&color=gradient&customColorList=0,2,2,12,20&desc=Full-Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=55&animation=fadeIn"/>
 
+</div>
 
+<!-- Animated Title -->
 <p align="center">
- <img
-   src="https://komarev.com/ghpvc/?username=ishara-pramod-0770&label=Profile%20views&color=0e75b6&style=flat"  
-   alt="ishara-pramod-0770"
- />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=%E2%9A%A1+Building+Digital+Experiences;%F0%9F%9A%80+Crafting+Innovative+Solutions;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8C%8F+Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%E2%98%95+Powered+by+Coffee+%26+Code" alt="Typing Animation"/>
 </p>
 
-<table align="center">
- <tr border="none">
-  <td width="50%" align="left">
-  
-- 🌱 I’m currently learning **REACT**
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-3B82F6?style=for-the-badge&labelColor=000000" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-3B82F6?style=for-the-badge&labelColor=000000" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Education-SLIIT%20Graduate-3B82F6?style=for-the-badge&labelColor=000000" alt="Education"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-3B82F6?style=for-the-badge&labelColor=000000" alt="Status"/>
+</p>
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **isharapramodranaweera@gmail.com**
-  
-- ⚡ Fun fact **Call me as Ishara**
-  
-  </td>
-  <td width="50%" align="center">
-   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
-  </td>
- </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishara-pramod-0770&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 ---
-<br>
-<h3 align="center">Languages and Tools ⚙️</h3><br>
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.android.com" target="_blank" rel="noreferre">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg"
-     alt="android"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg"
-     alt="bootstrap"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg"
-     alt="c"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg"
-     alt="cplusplus"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg"
-     alt="css3"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg"
-     alt="express"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg"
-     alt="figma"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg"
-     alt="flutter"
-     width="40"
-     height="40"
-   /> </a
- ><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg"
-     alt="html5"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.java.com" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg"
-     alt="java"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a
-   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-   target="_blank"
-   rel="noreferrer"
- >
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg"
-     alt="javascript"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg"
-     alt="mongodb"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg"
-     alt="mysql"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg"
-     alt="nodejs"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.php.net" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg"
-     alt="php"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg"
-     alt="python"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg"
-     alt="react"
-     width="40"
-     height="40"
-   /> </a>
 
-<br /><br><br />
+<!-- About Section - New Design -->
+<div align="center">
 
-<h3 align="center">Contribution Graph 📊</h3><br>
-<table align="center">
- <tr border="none">
-  <td width="50%" align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara-Pramod-0770&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-  </td>
-  <td width="50%" align="center">
-   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Ishara-Pramod-0770&theme=react&show_icons=true&include_all_commits=true" />
-  </td>
- </tr>
-</table>
-<p align= "center">
+## 🌐 WHO AM I?
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💻 PROFESSIONAL PROFILE
+
+```typescript
+const isharaPramod = {
+  role: "Full-Stack Developer",
+  company: "LocalSEO (Pvt) Ltd",
+  location: "Colombo, Sri Lanka 🇱🇰",
+  education: "B.Sc. (Hons) IT @ SLIIT",
+  experience: "1+ Year",
   
+  expertise: [
+    "⚛️ React.js & Modern Frontend",
+    "🔧 Node.js & Backend APIs",
+    "🎨 UI/UX Design & Figma",
+    "💾 Database Architecture",
+    "📱 Mobile App Development"
+  ],
   
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-</p>
-<br />
+  currentFocus: [
+    "Advanced React Patterns",
+    "Cloud Technologies",
+    "System Design",
+    "DevOps & Docker"
+  ],
+  
+  mindset: "Code with passion 💙, debug with patience ⚡"
+};
+```
 
-<h3 align="center">Connect with me ☎️</h3><br>
+### 🎯 QUICK STATS
 
-<table align="center">
- <tr border="none">
-  <td width="20%" align="center">
-   <a href="https://codepen.io/ishara ranaweera" target="blank"
-   ><img
-     align="center"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-     alt="ishara ranaweera"
-     height="40"
-     width="50" /></a
- >
-  </td>
-  <td width="20%" align="center">
-   <a href="https://linkedin.com/in/ishara ranaweera" target="blank"
-   ><img
-     align="center"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-     alt="ishara ranaweera"
-     height="40"
-     width="50" /></a
- >
-  </td>
-  <td width="20%" align="center">
-   <a href="https://stackoverflow.com/users/23122766" target="blank"
-   ><img
-     align="center"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-     alt="23122766"
-     height="40"
-     width="50" /></a
- >
-  </td>
-  <td width="20%" align="center">
-   <a href="https://fb.com/ishara pramod ranaweerainfi" target="blank"
-   ><img
-     align="center"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-     alt="ishara pramod ranaweerainfi"
-     height="40"
-     width="50" /></a
- >
-  </td>
-  <td width="20%" align="center">
-   <a href="https://www.youtube.com/c/infinite sage" target="blank"
-   ><img
-     align="center"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-     alt="infinite sage"
-     height="40"
-     width="50"
- /></a>
-  </td>
- </tr>
+- 🔥 **Projects Delivered:** Multiple Full-Stack Applications
+- 💡 **Problem Solving:** Debugging Expert & Quick Learner
+- 🤝 **Team Player:** Collaborative Development
+- 🚀 **Always Learning:** Staying Updated with Tech Trends
+
+</td>
+</tr>
 </table>
 
+</div>
 
+---
 
+<!-- Tech Stack with Blue Theme -->
+<div align="center">
+
+## ⚡ TECH ARSENAL
+
+### 🎯 Core Technologies
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+<br>React
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+<br>GitHub
+</td>
+</tr>
+</table>
+
+### 💎 Full Technology Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
+
+</div>
+
+---
+
+<!-- GitHub Stats with Blue Theme -->
+<div align="center">
+
+## 📊 PERFORMANCE METRICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishara-Pramod-0770&show_icons=true&theme=cobalt&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=FFFFFF&ring_color=3B82F6" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ishara-Pramod-0770&theme=cobalt&hide_border=true&background=00000000&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara-Pramod-0770&layout=compact&theme=cobalt&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- Trophy Showcase -->
+<div align="center">
+
+## 🏆 ACHIEVEMENT VAULT
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ishara-Pramod-0770&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- Projects Section -->
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️‍♂️ GymSync
+**Fitness Management Platform**
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=3B82F6)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=60A5FA)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=3B82F6)
+
+A comprehensive fitness management system featuring:
+- 👥 Member Management
+- 📊 Workout Tracking
+- 💰 Payment Processing
+- 📱 Mobile Responsive Design
+
+[`View Code →`](https://github.com/Ishara-Pramod-0770/GymSync)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 RateMaker
+**Logistics Pricing Engine**
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=3B82F6)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=60A5FA)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=3B82F6)
+
+Intelligent pricing system with:
+- ⚡ Dynamic Rate Calculation
+- 📈 Analytics Dashboard
+- 🔒 Secure Authentication
+- 📊 Reporting Tools
+
+[`View Code →`](https://github.com/Ishara-Pramod-0770/RateMaker)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<a href="https://linkedin.com/in/ishara-ranaweera">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+</a>
+<a href="mailto:isharapramodranaweera@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+</a>
+<a href="https://github.com/Ishara-Pramod-0770">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+<a href="https://stackoverflow.com/users/23122766">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=000000" alt="Stack Overflow"/>
+</a>
+
+<a href="https://fb.com/ishara-pramod-ranaweerainfi">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" alt="Facebook"/>
+</a>
+<a href="https://www.youtube.com/c/infinite-sage">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
+</a>
+<a href="https://codepen.io/ishara-ranaweera">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen"/>
+</a>
+
+</div>
+
+---
+
+<!-- Quote -->
+<div align="center">
+
+### 💭 DEV WISDOM
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=3B82F6)
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishara-Pramod-0770/Ishara-Pramod-0770/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishara-Pramod-0770/Ishara-Pramod-0770/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishara-Pramod-0770/Ishara-Pramod-0770/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+### ⚡ STAY CURIOUS • KEEP CODING • BUILD AMAZING THINGS ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,12,20&section=footer" width="100%"/>
+
+**Made with 💙 and ⚡ by Ishara Pramod**
+
+</div>
